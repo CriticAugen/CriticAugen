@@ -1,5 +1,5 @@
-## Hi there 👋 CriticAugen (Roshan Srivastava) here, thanks for visiting.
-# About Me:
+<h1 align="center">~~ About Me ~~</h1>
+
 ## 🎯 Professional Experience:
 During my time at TCS (Tata Consultancy Services), I have had the opportunity to work on a diverse range of sub-projects within a larger project. This experience has allowed me to gain exposure to various aspects of software development and expand my skill set. Here's a brief overview of my professional journey within this project:<br><br> <i>Manual Testing</i>: I began my career as a manual tester, gaining a solid foundation in software testing principles and methodologies. This role involved testing different modules and functionalities of the project, ensuring their quality and reliability.<br><br><i>Automation Testing with Java - Selenium</i>: Realizing the power and efficiency of automation, I took the initiative to learn automation testing using Java and Selenium. This allowed me to create automated test scripts for repetitive tasks, saving time and effort while improving overall test coverage.<br><br><i>Performance Testing with Apache JMeter</i>: Recognizing the importance of performance testing, I actively participated in performance testing activities for the project. Using Apache JMeter, I conducted load and stress testing to identify performance bottlenecks and optimize the application's performance.<br><br><i>DevOps</i>: As part of the project's DevOps team, I collaborated with developers and operations personnel to streamline the software development and deployment processes. This involved implementing continuous integration and delivery pipelines, automating deployments, and ensuring the smooth functioning of the project.<br><br>Throughout my journey within this project, I have acquired valuable skills and knowledge in different domains, adapting to the evolving needs and challenges. The diverse range of sub-projects has provided me with a holistic understanding of the software development life cycle and the ability to tackle complex problems effectively.
 
@@ -19,9 +19,6 @@ During my time at TCS (Tata Consultancy Services), I have had the opportunity to
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CriticAugen&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CriticAugen&icon=0&color=5)](https://visitcount.itsvg.in)
