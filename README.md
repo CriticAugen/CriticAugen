@@ -32,7 +32,7 @@ Throughout my journey within this project, I have acquired valuable skills and k
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CriticAugen&theme=dark&border_radius=7&card_width=1020&fire=F30000&ring=00DCEB&stroke=EB00A5&sideNums=00DCEB&currStreakNum=00DCEB&currStreakLabel=00DCEB&sideLabels=00DCEB&dates=EB00A5&border=EB00A5&background=000000)](https://git.io/streak-stats) 
 
 <p>
-  <img src="https://github.com/CriticAugen/CriticAugen/assets/61629012/42b70f75-3dec-48fb-83cd-a3b70a3e326e" alt="Bored" align="right" style="border: 3px solid #EB00A5; border-radius: 7px;">
+  <img src="https://github.com/CriticAugen/CriticAugen/assets/61629012/f2c6194d-2fe8-47c1-bbff-f7ee5cbfeec7" alt="Bored" align="right" style="border: 3px solid #EB00A5; border-radius: 7px;">
   <img src="https://github-readme-stats.vercel.app/api?username=CriticAugen&theme=dark&bg_color=000000&border_color=EB00A5&ring_color=00DCEB&title_color=00DCEB&text_color=EB00A5&card_width=510&hide_border=false&include_all_commits=true&count_private=false&border_radius=7&show_icons=true&icon_color=00DCEB" alt="STATS">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriticAugen&theme=dark&card_width=510&border_radius=7&hide_border=false&bg_color=000000&border_color=EB00A5&include_all_commits=true&count_private=false&layout=compact" alt="Language">
 </p>
