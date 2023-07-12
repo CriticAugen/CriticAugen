@@ -1,4 +1,5 @@
-![CriTIC](https://github.com/CriticAugen/CriticAugen/assets/61629012/27f47a4c-37f5-40dd-b62f-1f871beeaf99)
+![logo](https://github.com/CriticAugen/CriticAugen/assets/61629012/8877e8e1-229d-4980-9bbf-d0566408a88c)
+
 
 <h1 align="center">~~ About Me ~~</h1>
 
